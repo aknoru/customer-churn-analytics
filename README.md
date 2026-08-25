@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Customer Churn Analytics & Prediction
 
 A portfolio-ready customer churn analytics and prediction application using Python, SQL-style analytics, Pandas, Scikit-learn and Streamlit.
